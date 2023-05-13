@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Adam NASSIRI"
+logo = "img/github_profile.png"
+description = "My portfolio website"
+copyright = "image.png"
+
+dateFormat = "2 January 2006"
+
+[author]
+   name = "Adam NASSIRI"
+   image = "img/profile.jpg"
+   headline = "Passionate developper, hard worker"
+   bio = ""
+   links = [
+        { email = "mailto:adam.nassiri420@gmail.com" },
+        { github = "https://github.com/AdamWizard" },
+        {linkedin = "https://www.linkedin.com/in/adam-nassiri/?originalSubdomain=fr"},
+        { link = "https://adam-wizard.itch.io" },
+     
+     ]

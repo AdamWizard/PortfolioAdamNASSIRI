@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Adam NASSIRI</title>
+    <link>https://Adam-Nassiri.com/projects/</link>
+    <description>Recent content in Projects on Adam NASSIRI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>image.png</copyright>
+    <lastBuildDate>Mon, 01 May 2023 14:40:56 -0400</lastBuildDate><atom:link href="https://Adam-Nassiri.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VRDJ</title>
+      <link>https://Adam-Nassiri.com/projects/vrdj/</link>
+      <pubDate>Mon, 01 May 2023 18:29:56 -0400</pubDate>
+      
+      <guid>https://Adam-Nassiri.com/projects/vrdj/</guid>
+      <description>VR Application where you can be a live DJ</description>
+    </item>
+    
+    <item>
+      <title>Extra Leaderboards API</title>
+      <link>https://Adam-Nassiri.com/projects/extraleaderboards/</link>
+      <pubDate>Mon, 01 May 2023 18:29:28 -0400</pubDate>
+      
+      <guid>https://Adam-Nassiri.com/projects/extraleaderboards/</guid>
+      <description>An API that provides data for a trackmania plugin</description>
+    </item>
+    
+    <item>
+      <title>A sacrifice for the turquoise lord</title>
+      <link>https://Adam-Nassiri.com/projects/turquoise/</link>
+      <pubDate>Mon, 01 May 2023 18:27:10 -0400</pubDate>
+      
+      <guid>https://Adam-Nassiri.com/projects/turquoise/</guid>
+      <description>2D Puzzle game with a timeloop mechanic</description>
+    </item>
+    
+    <item>
+      <title>Spirograph Visualizer</title>
+      <link>https://Adam-Nassiri.com/projects/spirograph/</link>
+      <pubDate>Mon, 01 May 2023 18:26:33 -0400</pubDate>
+      
+      <guid>https://Adam-Nassiri.com/projects/spirograph/</guid>
+      <description>A program to visualize spirographs using C++ and SFML</description>
+    </item>
+    
+    <item>
+      <title>FormFinder</title>
+      <link>https://Adam-Nassiri.com/projects/formfinder/</link>
+      <pubDate>Mon, 01 May 2023 14:40:56 -0400</pubDate>
+      
+      <guid>https://Adam-Nassiri.com/projects/formfinder/</guid>
+      <description>A 2D/3D game about conveyors and factories</description>
+    </item>
+    
+    <item>
+      <title>friend-ship</title>
+      <link>https://Adam-Nassiri.com/projects/friend-ship/</link>
+      <pubDate>Mon, 01 May 2023 14:40:56 -0400</pubDate>
+      
+      <guid>https://Adam-Nassiri.com/projects/friend-ship/</guid>
+      <description>A Shoot&amp;rsquo;em up arcade game where you can convert enemies into friends</description>
+    </item>
+    
+  </channel>
+</rss>

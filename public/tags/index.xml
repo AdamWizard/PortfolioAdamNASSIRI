@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Adam NASSIRI</title>
+    <link>https://Adam-Nassiri.com/tags/</link>
+    <description>Recent content in Tags on Adam NASSIRI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>image.png</copyright>
+    <lastBuildDate>Mon, 01 May 2023 18:29:56 -0400</lastBuildDate><atom:link href="https://Adam-Nassiri.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>game</title>
+      <link>https://Adam-Nassiri.com/tags/game/</link>
+      <pubDate>Mon, 01 May 2023 18:29:56 -0400</pubDate>
+      
+      <guid>https://Adam-Nassiri.com/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://Adam-Nassiri.com/tags/projects/</link>
+      <pubDate>Mon, 01 May 2023 18:29:56 -0400</pubDate>
+      
+      <guid>https://Adam-Nassiri.com/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>https://Adam-Nassiri.com/tags/unity/</link>
+      <pubDate>Mon, 01 May 2023 18:29:56 -0400</pubDate>
+      
+      <guid>https://Adam-Nassiri.com/tags/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR</title>
+      <link>https://Adam-Nassiri.com/tags/vr/</link>
+      <pubDate>Mon, 01 May 2023 18:29:56 -0400</pubDate>
+      
+      <guid>https://Adam-Nassiri.com/tags/vr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
