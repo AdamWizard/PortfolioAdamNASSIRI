@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Adam Wizard"
+title = "Adam Nassiri"
 logo = "img/github_profile.png"
 description = "My portfolio website"
 copyright = "Adam Nassiri 2023"
@@ -13,7 +13,7 @@ copyright = "Adam Nassiri 2023"
 dateFormat = "2 January 2006"
 
 [author]
-   name = "Adam NASSIRI"
+   name = "Adam Nassiri"
    image = "img/profile.jpg"
    headline = "Passionate developper, hard worker"
    bio = ""
