@@ -8,7 +8,7 @@ rtl = false
 title = "Adam NASSIRI"
 logo = "img/github_profile.png"
 description = "My portfolio website"
-copyright = "image.png"
+copyright = "Adam Nassiri 2023"
 
 dateFormat = "2 January 2006"
 
@@ -21,6 +21,6 @@ dateFormat = "2 January 2006"
         { email = "mailto:adam.nassiri420@gmail.com" },
         { github = "https://github.com/AdamWizard" },
         {linkedin = "https://www.linkedin.com/in/adam-nassiri/?originalSubdomain=fr"},
-        { link = "https://adam-wizard.itch.io" },
+        { itch-io = "https://adam-wizard.itch.io" },
      
      ]

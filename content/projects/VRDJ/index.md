@@ -3,9 +3,17 @@ title: "VRDJ"
 date: 2023-05-01T18:29:56-04:00
 draft: false
 tags: ["projects", "game", "VR", "Unity"]
+showHero: false
+heroStyle: "thumbAndBackground"
 ---
 
-VR Application where you can be a live DJ
+{{< lead >}}
+{{< typeit 
+speed=50
+lifeLike=true
+>}}Grab the decks in VR!
+{{< /typeit >}}
+{{< /lead >}} 
 
 ## A live audio experience in VR
 
