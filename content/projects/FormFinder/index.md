@@ -24,7 +24,7 @@ This inspired us to make this puzzle game, in this fictional universe, geometry 
 
 The 3D part of the game allow the player to walk around and select the stage they want to play by walking up to it, the main gameplay loop happens in the 2D sections, were the player can freely design their conveyor lines and using machines that paint, sort or reshape shapes.
 
-<p align="center"><img src="grid.png" /></p>
+{{< youtube hTqForS1lpo>}}
 
 ## My part of the work
 ### The 2D grid

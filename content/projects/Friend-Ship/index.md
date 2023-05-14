@@ -16,7 +16,7 @@ lifeLike=true
 ## A very personal project...
 <p align="center"><img src="Big_Scary_Eye_Jitter.gif" /></p>
 
-A Shoot'em up arcade game where you can convert enemies into friends
+A Shoot'em up arcade game where you can **convert enemies into friends**.
 
 Friend-Ship is my current passion project, as a huge fan of the shmup genre,<br>
 I wanted to try my hand at making one.
