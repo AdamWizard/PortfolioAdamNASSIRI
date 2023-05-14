@@ -6,6 +6,8 @@ on:
   push:
     branches:
       - main
+  # A llows workflow to be triggerd from the Actions tab on github
+  workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
