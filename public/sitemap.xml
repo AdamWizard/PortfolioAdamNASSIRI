@@ -3,28 +3,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
       <url>
-            <loc>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/vrdj/</loc>
-            <lastmod>2023-05-01T18:29:56-04:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/extraleaderboards/</loc>
-            <lastmod>2023-05-01T18:29:28-04:00</lastmod>
+            <loc>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/friend-ship/</loc>
+            <lastmod>2023-05-15T14:40:56-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -33,12 +14,9 @@
     
   
     
-      <url>
-            <loc>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/turquoise/</loc>
-            <lastmod>2023-05-01T18:27:10-04:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
+  
+    
+  
     
   
     
@@ -46,7 +24,7 @@
     
       <url>
             <loc>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/spirograph/</loc>
-            <lastmod>2023-05-01T18:26:33-04:00</lastmod>
+            <lastmod>2023-05-14T18:26:33-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -54,8 +32,8 @@
   
     
       <url>
-            <loc>https://adamwizard.github.io/PortfolioAdamNASSIRI/</loc>
-            <lastmod>2023-05-01T14:40:56-04:00</lastmod>
+            <loc>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/turquoise/</loc>
+            <lastmod>2023-05-13T18:27:10-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -64,7 +42,18 @@
     
       <url>
             <loc>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/formfinder/</loc>
-            <lastmod>2023-05-01T14:40:56-04:00</lastmod>
+            <lastmod>2023-05-12T14:40:56-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/vrdj/</loc>
+            <lastmod>2023-05-11T18:29:56-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -72,7 +61,18 @@
   
     
       <url>
-            <loc>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/friend-ship/</loc>
+            <loc>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/extraleaderboards/</loc>
+            <lastmod>2023-05-02T18:29:28-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://adamwizard.github.io/PortfolioAdamNASSIRI/</loc>
             <lastmod>2023-05-01T14:40:56-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

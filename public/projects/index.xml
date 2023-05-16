@@ -9,9 +9,45 @@
     <copyright>Adam Nassiri 2023</copyright>
     <lastBuildDate>Mon, 01 May 2023 14:40:56 -0400</lastBuildDate><atom:link href="https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>friend-ship</title>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/friend-ship/</link>
+      <pubDate>Mon, 15 May 2023 14:40:56 -0400</pubDate>
+      
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/friend-ship/</guid>
+      <description>A very personal project&amp;hellip; # A Shoot&amp;rsquo;em up arcade game where you can convert enemies into friends.</description>
+    </item>
+    
+    <item>
+      <title>Spirograph Visualizer</title>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/spirograph/</link>
+      <pubDate>Sun, 14 May 2023 18:26:33 -0400</pubDate>
+      
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/spirograph/</guid>
+      <description>My first &amp;ldquo;game&amp;rdquo; # As a team of two students, and over the course of six months, our goal was to make a program capable of visualizing spirographs using C++ and SFML</description>
+    </item>
+    
+    <item>
+      <title>A sacrifice for the turquoise lord</title>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/turquoise/</link>
+      <pubDate>Sat, 13 May 2023 18:27:10 -0400</pubDate>
+      
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/turquoise/</guid>
+      <description>My first experience using a game engine # This was a class project made over the course of six months with four teamates assisting me, we had game-jam-like constraints in the sense that we had a theme to stick with: time manipulation.</description>
+    </item>
+    
+    <item>
+      <title>FormFinder</title>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/formfinder/</link>
+      <pubDate>Fri, 12 May 2023 14:40:56 -0400</pubDate>
+      
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/formfinder/</guid>
+      <description>An attempt at a serious game # This game was made on Unity with a team of six, over the course of three months for a class on serious games.</description>
+    </item>
+    
+    <item>
       <title>VRDJ</title>
       <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/vrdj/</link>
-      <pubDate>Mon, 01 May 2023 18:29:56 -0400</pubDate>
+      <pubDate>Thu, 11 May 2023 18:29:56 -0400</pubDate>
       
       <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/vrdj/</guid>
       <description>A live audio experience in VR # This VR game allows the player to mix music tracks live using a simplified control panel.</description>
@@ -20,46 +56,10 @@
     <item>
       <title>Extra Leaderboards API</title>
       <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/extraleaderboards/</link>
-      <pubDate>Mon, 01 May 2023 18:29:28 -0400</pubDate>
+      <pubDate>Tue, 02 May 2023 18:29:28 -0400</pubDate>
       
       <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/extraleaderboards/</guid>
       <description>Speeding up the plugin # The Extra Leaderboard positions plugin is an existing plugin for trackmania that allows players to get more information about their placement on a given map.</description>
-    </item>
-    
-    <item>
-      <title>A sacrifice for the turquoise lord</title>
-      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/turquoise/</link>
-      <pubDate>Mon, 01 May 2023 18:27:10 -0400</pubDate>
-      
-      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/turquoise/</guid>
-      <description>My first experience using a game engine # This was a class project made over the course of six months with four teamates assisting me, we had game-jam-like constraints in the sense that we had a theme to stick with: time manipulation.</description>
-    </item>
-    
-    <item>
-      <title>Spirograph Visualizer</title>
-      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/spirograph/</link>
-      <pubDate>Mon, 01 May 2023 18:26:33 -0400</pubDate>
-      
-      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/spirograph/</guid>
-      <description>My first &amp;ldquo;game&amp;rdquo; # As a team of two students, and over the course of six months, our goal was to make a program capable of visualizing spirographs using C++ and SFML</description>
-    </item>
-    
-    <item>
-      <title>FormFinder</title>
-      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/formfinder/</link>
-      <pubDate>Mon, 01 May 2023 14:40:56 -0400</pubDate>
-      
-      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/formfinder/</guid>
-      <description>An attempt at a serious game # This game was made on Unity with a team of six, over the course of three months for a class on serious games.</description>
-    </item>
-    
-    <item>
-      <title>friend-ship</title>
-      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/friend-ship/</link>
-      <pubDate>Mon, 01 May 2023 14:40:56 -0400</pubDate>
-      
-      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/friend-ship/</guid>
-      <description>A very personal project&amp;hellip; # A Shoot&amp;rsquo;em up arcade game where you can convert enemies into friends.</description>
     </item>
     
   </channel>

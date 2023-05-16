@@ -1,6 +1,6 @@
 ---
 title: "Spirograph Visualizer"
-date: 2023-05-01T18:26:33-04:00
+date: 2023-05-14T18:26:33-04:00
 draft: false
 tags: ["projects","C++"]
 ---
