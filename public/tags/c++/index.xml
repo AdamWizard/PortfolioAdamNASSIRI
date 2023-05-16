@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; on Adam Nassiri</title>
+    <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Adam Nassiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Adam Nassiri 2023</copyright>
+    <lastBuildDate>Mon, 01 May 2023 18:26:33 -0400</lastBuildDate><atom:link href="https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spirograph Visualizer</title>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/spirograph/</link>
+      <pubDate>Mon, 01 May 2023 18:26:33 -0400</pubDate>
+      
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/spirograph/</guid>
+      <description>My first &amp;ldquo;game&amp;rdquo; # As a team of two students, and over the course of six months, our goal was to make a program capable of visualizing spirographs using C++ and SFML</description>
+    </item>
+    
+  </channel>
+</rss>

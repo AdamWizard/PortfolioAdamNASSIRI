@@ -1,46 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Adam NASSIRI</title>
-    <link>https://Adam-Nassiri.com/tags/</link>
-    <description>Recent content in Tags on Adam NASSIRI</description>
+    <title>Tags on Adam Nassiri</title>
+    <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/</link>
+    <description>Recent content in Tags on Adam Nassiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>image.png</copyright>
-    <lastBuildDate>Mon, 01 May 2023 18:29:56 -0400</lastBuildDate><atom:link href="https://Adam-Nassiri.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Adam Nassiri 2023</copyright>
+    <lastBuildDate>Mon, 01 May 2023 18:29:56 -0400</lastBuildDate><atom:link href="https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>game</title>
-      <link>https://Adam-Nassiri.com/tags/game/</link>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/game/</link>
       <pubDate>Mon, 01 May 2023 18:29:56 -0400</pubDate>
       
-      <guid>https://Adam-Nassiri.com/tags/game/</guid>
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>https://Adam-Nassiri.com/tags/projects/</link>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/projects/</link>
       <pubDate>Mon, 01 May 2023 18:29:56 -0400</pubDate>
       
-      <guid>https://Adam-Nassiri.com/tags/projects/</guid>
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unity</title>
-      <link>https://Adam-Nassiri.com/tags/unity/</link>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/unity/</link>
       <pubDate>Mon, 01 May 2023 18:29:56 -0400</pubDate>
       
-      <guid>https://Adam-Nassiri.com/tags/unity/</guid>
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/unity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VR</title>
-      <link>https://Adam-Nassiri.com/tags/vr/</link>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/vr/</link>
       <pubDate>Mon, 01 May 2023 18:29:56 -0400</pubDate>
       
-      <guid>https://Adam-Nassiri.com/tags/vr/</guid>
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/java/</link>
+      <pubDate>Mon, 01 May 2023 18:29:28 -0400</pubDate>
+      
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 May 2023 18:26:33 -0400</pubDate>
+      
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     

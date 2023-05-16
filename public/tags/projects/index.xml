@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>projects on Adam NASSIRI</title>
-    <link>https://Adam-Nassiri.com/tags/projects/</link>
-    <description>Recent content in projects on Adam NASSIRI</description>
+    <title>projects on Adam Nassiri</title>
+    <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/projects/</link>
+    <description>Recent content in projects on Adam Nassiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>image.png</copyright>
-    <lastBuildDate>Mon, 01 May 2023 18:29:56 -0400</lastBuildDate><atom:link href="https://Adam-Nassiri.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Adam Nassiri 2023</copyright>
+    <lastBuildDate>Mon, 01 May 2023 18:29:56 -0400</lastBuildDate><atom:link href="https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VRDJ</title>
-      <link>https://Adam-Nassiri.com/projects/vrdj/</link>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/vrdj/</link>
       <pubDate>Mon, 01 May 2023 18:29:56 -0400</pubDate>
       
-      <guid>https://Adam-Nassiri.com/projects/vrdj/</guid>
-      <description>VR Application where you can be a live DJ</description>
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/vrdj/</guid>
+      <description>A live audio experience in VR # This VR game allows the player to mix music tracks live using a simplified control panel.</description>
     </item>
     
     <item>
       <title>Extra Leaderboards API</title>
-      <link>https://Adam-Nassiri.com/projects/extraleaderboards/</link>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/extraleaderboards/</link>
       <pubDate>Mon, 01 May 2023 18:29:28 -0400</pubDate>
       
-      <guid>https://Adam-Nassiri.com/projects/extraleaderboards/</guid>
-      <description>An API that provides data for a trackmania plugin</description>
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/extraleaderboards/</guid>
+      <description>Speeding up the plugin # The Extra Leaderboard positions plugin is an existing plugin for trackmania that allows players to get more information about their placement on a given map.</description>
     </item>
     
     <item>
       <title>A sacrifice for the turquoise lord</title>
-      <link>https://Adam-Nassiri.com/projects/turquoise/</link>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/turquoise/</link>
       <pubDate>Mon, 01 May 2023 18:27:10 -0400</pubDate>
       
-      <guid>https://Adam-Nassiri.com/projects/turquoise/</guid>
-      <description>2D Puzzle game with a timeloop mechanic</description>
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/turquoise/</guid>
+      <description>My first experience using a game engine # This was a class project made over the course of six months with four teamates assisting me, we had game-jam-like constraints in the sense that we had a theme to stick with: time manipulation.</description>
     </item>
     
     <item>
       <title>Spirograph Visualizer</title>
-      <link>https://Adam-Nassiri.com/projects/spirograph/</link>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/spirograph/</link>
       <pubDate>Mon, 01 May 2023 18:26:33 -0400</pubDate>
       
-      <guid>https://Adam-Nassiri.com/projects/spirograph/</guid>
-      <description>A program to visualize spirographs using C++ and SFML</description>
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/spirograph/</guid>
+      <description>My first &amp;ldquo;game&amp;rdquo; # As a team of two students, and over the course of six months, our goal was to make a program capable of visualizing spirographs using C++ and SFML</description>
     </item>
     
     <item>
       <title>FormFinder</title>
-      <link>https://Adam-Nassiri.com/projects/formfinder/</link>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/formfinder/</link>
       <pubDate>Mon, 01 May 2023 14:40:56 -0400</pubDate>
       
-      <guid>https://Adam-Nassiri.com/projects/formfinder/</guid>
-      <description>A 2D/3D game about conveyors and factories</description>
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/formfinder/</guid>
+      <description>An attempt at a serious game # This game was made on Unity with a team of six, over the course of three months for a class on serious games.</description>
     </item>
     
     <item>
       <title>friend-ship</title>
-      <link>https://Adam-Nassiri.com/projects/friend-ship/</link>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/friend-ship/</link>
       <pubDate>Mon, 01 May 2023 14:40:56 -0400</pubDate>
       
-      <guid>https://Adam-Nassiri.com/projects/friend-ship/</guid>
-      <description>A Shoot&amp;rsquo;em up arcade game where you can convert enemies into friends</description>
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/friend-ship/</guid>
+      <description>A very personal project&amp;hellip; # A Shoot&amp;rsquo;em up arcade game where you can convert enemies into friends.</description>
     </item>
     
   </channel>

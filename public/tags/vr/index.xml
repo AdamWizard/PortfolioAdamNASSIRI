@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VR on Adam NASSIRI</title>
-    <link>https://Adam-Nassiri.com/tags/vr/</link>
-    <description>Recent content in VR on Adam NASSIRI</description>
+    <title>VR on Adam Nassiri</title>
+    <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/vr/</link>
+    <description>Recent content in VR on Adam Nassiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>image.png</copyright>
-    <lastBuildDate>Mon, 01 May 2023 18:29:56 -0400</lastBuildDate><atom:link href="https://Adam-Nassiri.com/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Adam Nassiri 2023</copyright>
+    <lastBuildDate>Mon, 01 May 2023 18:29:56 -0400</lastBuildDate><atom:link href="https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/vr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VRDJ</title>
-      <link>https://Adam-Nassiri.com/projects/vrdj/</link>
+      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/vrdj/</link>
       <pubDate>Mon, 01 May 2023 18:29:56 -0400</pubDate>
       
-      <guid>https://Adam-Nassiri.com/projects/vrdj/</guid>
-      <description>VR Application where you can be a live DJ</description>
+      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/vrdj/</guid>
+      <description>A live audio experience in VR # This VR game allows the player to mix music tracks live using a simplified control panel.</description>
     </item>
     
   </channel>

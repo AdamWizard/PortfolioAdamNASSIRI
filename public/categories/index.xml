@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Adam NASSIRI</title>
-    <link>https://Adam-Nassiri.com/categories/</link>
-    <description>Recent content in Categories on Adam NASSIRI</description>
+    <title>Categories on Adam Nassiri</title>
+    <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/categories/</link>
+    <description>Recent content in Categories on Adam Nassiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>image.png</copyright><atom:link href="https://Adam-Nassiri.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Adam Nassiri 2023</copyright><atom:link href="https://adamwizard.github.io/PortfolioAdamNASSIRI/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
