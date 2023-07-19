@@ -34,6 +34,6 @@ We wanted to make a game that teaches the basics of mixing music and makes it so
 ### My part of the work
 This project was **a complete gear shift** for me, as i mainly participated in the **visual design of the scene**, my job was less coding-oriented than usual.
 
-In terms of assets, i was in charge of developping the scripts that govern the movement of the lasers, aswell as comming up with a solution to make them **sync to the beat in real time**.
+In terms of assets, i was in charge of developping the scripts that govern the movement of the lasers, aswell as coming up with a solution to make them **sync to the beat in real time**.
 
 <p align="right"><img src="noise.png" width=20%/></p>

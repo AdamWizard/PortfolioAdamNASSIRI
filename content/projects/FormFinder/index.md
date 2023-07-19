@@ -29,7 +29,7 @@ The 3D part of the game allow the player to walk around and select the stage the
 ## My part of the work
 ### The 2D grid
 I developped the **grid system** as well as the scripts that allow machines and conveyors to be highlighted, placed, destroyed etc.
-This game, although unplayable as of now, was a good exercise in **writing expandable code** that would allow for a future person to design theyr own grid objects, machines, and conveyors.
+This game, although unplayable as of now, was a good exercise in **writing expandable code** that would allow for a future person to design their own grid objects, machines, and conveyors.
 
 ### The art
 I also drew the sprites for the 2D sections of the game.
