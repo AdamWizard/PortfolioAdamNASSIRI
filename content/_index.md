@@ -7,7 +7,7 @@ Hi! Also known as **Adam Wizard**, I am a 5th year computer science engineering 
 
 This website contains information about [all the projects](projects) I made in recent years.
 
-If you want to know more about me, check <a href="pdf/CV_Adam_Nassiri_EN.pdf" target="_blank">my resume</a> or contact me via discord or email.
+If you want to know more about me, check <a href="pdf/Resume_Adam_Nassiri.pdf" target="_blank">my resume</a> or contact me via discord or email.
 
 
 {{< typeit 
