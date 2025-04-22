@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f7eb4c9-3d3b-4f86-8929-3b74ccc42cae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../assets/img/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public/img/profile_huad1e7deba1477cb4b62dfe1856c0a8c1_22922_288x288_fill_q75_box_center.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/_gen/images/profile_huad1e7deba1477cb4b62dfe1856c0a8c1_22922_288x288_fill_q75_box_center.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../static/pdf/CV_Adam_NASSIRI_EN.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../themes/blowfish" beforeDir="false" afterPath="$PROJECT_DIR$/../themes/blowfish" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +48,7 @@
       <workItem from="1745333072635" duration="21000" />
       <workItem from="1745333117024" duration="6000" />
       <workItem from="1745333142622" duration="658000" />
-      <workItem from="1745333952972" duration="12000" />
+      <workItem from="1745333952972" duration="521000" />
     </task>
     <servers />
   </component>
