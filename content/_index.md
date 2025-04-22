@@ -3,7 +3,9 @@ title: "Adam Wizard's portfolio"
 date: 2023-05-01T14:40:56-04:00
 draft: false
 ---
-Hi! Also known as **Adam Wizard**, I am a 5th year computer science engineering student and an aspiring game dev.
+Hi! my name is Adam, I'm a game dev and **computer science engineer**.
+
+I'm also known as **Adam Wizard** online
 
 This website contains information about [all the projects](projects) I made in recent years.
 
@@ -14,7 +16,7 @@ If you want to know more about me, check <a href="pdf/Resume_Adam_Nassiri.pdf" t
 lifeLike = true
 speed = 30
 >}}In the meantime, why not check these projects?
-Some of them are playable, if you fancy a quick game :smile:
+Some of them are playable, if you fancy a quick game 😋
 {{< /typeit >}}
 
 

@@ -2,46 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unity on Adam Nassiri</title>
-    <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/unity/</link>
+    <link>http://localhost:1313/PortfolioAdamNASSIRI/tags/unity/</link>
     <description>Recent content in Unity on Adam Nassiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Adam Nassiri 2023</copyright>
-    <lastBuildDate>Mon, 15 May 2023 14:40:56 -0400</lastBuildDate><atom:link href="https://adamwizard.github.io/PortfolioAdamNASSIRI/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Mon, 15 May 2023 14:40:56 -0400</lastBuildDate><atom:link href="http://localhost:1313/PortfolioAdamNASSIRI/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>friend-ship</title>
-      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/friend-ship/</link>
+      <link>http://localhost:1313/PortfolioAdamNASSIRI/projects/friend-ship/</link>
       <pubDate>Mon, 15 May 2023 14:40:56 -0400</pubDate>
       
-      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/friend-ship/</guid>
+      <guid>http://localhost:1313/PortfolioAdamNASSIRI/projects/friend-ship/</guid>
       <description>A very personal project&amp;hellip; # A Shoot&amp;rsquo;em up arcade game where you can convert enemies into friends.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PortfolioAdamNASSIRI/projects/friend-ship/featured_logo.png" />
     </item>
     
     <item>
       <title>A sacrifice for the turquoise lord</title>
-      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/turquoise/</link>
+      <link>http://localhost:1313/PortfolioAdamNASSIRI/projects/turquoise/</link>
       <pubDate>Sat, 13 May 2023 18:27:10 -0400</pubDate>
       
-      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/turquoise/</guid>
+      <guid>http://localhost:1313/PortfolioAdamNASSIRI/projects/turquoise/</guid>
       <description>My first experience using a game engine # This was a class project made over the course of six months with four teamates assisting me, we had game-jam-like constraints in the sense that we had a theme to stick with: time manipulation.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PortfolioAdamNASSIRI/projects/turquoise/featured_logo.png" />
     </item>
     
     <item>
       <title>FormFinder</title>
-      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/formfinder/</link>
+      <link>http://localhost:1313/PortfolioAdamNASSIRI/projects/formfinder/</link>
       <pubDate>Fri, 12 May 2023 14:40:56 -0400</pubDate>
       
-      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/formfinder/</guid>
+      <guid>http://localhost:1313/PortfolioAdamNASSIRI/projects/formfinder/</guid>
       <description>An attempt at a serious game # This game was made on Unity with a team of six, over the course of three months for a class on serious games.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PortfolioAdamNASSIRI/projects/formfinder/featured_logo.png" />
     </item>
     
     <item>
       <title>VRDJ</title>
-      <link>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/vrdj/</link>
+      <link>http://localhost:1313/PortfolioAdamNASSIRI/projects/vrdj/</link>
       <pubDate>Thu, 11 May 2023 18:29:56 -0400</pubDate>
       
-      <guid>https://adamwizard.github.io/PortfolioAdamNASSIRI/projects/vrdj/</guid>
+      <guid>http://localhost:1313/PortfolioAdamNASSIRI/projects/vrdj/</guid>
       <description>A live audio experience in VR # This VR game allows the player to mix music tracks live using a simplified control panel.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PortfolioAdamNASSIRI/projects/vrdj/featured_logo.png" />
     </item>
     
   </channel>
