@@ -9,7 +9,7 @@ tags: ["projects","C++"]
 {{< typeit 
 speed=50
 lifeLike=true
->}}There is beauty in math, and we would prove it with this.
+>}}A glimpse into the beauty of trigonometry.
 {{< /typeit >}}
 {{< /lead >}} 
 
