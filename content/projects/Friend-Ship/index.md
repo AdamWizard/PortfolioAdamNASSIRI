@@ -8,7 +8,7 @@ tags: ["Projects", "Game", "Unity"]
 {{< typeit 
 speed=50
 lifeLike=true
->}}Somewhere in space, a spaceship fights hordes of foes with the power of friendship, but they don't all have to stay ennemies...
+>}}Somewhere in space, a spaceship fights hordes of foes, thanks to the power of friendship, they don't all have to stay ennemies...
 {{< /typeit >}}
 {{< /lead >}} 
 
