@@ -9,7 +9,7 @@ I'm also known as **Adam Wizard** online
 
 This website contains information about [all the projects](projects) I made in recent years.
 
-If you want to know more about me, check <a href="pdf/CV_Adam_Nassiri_English-version.pdf" target="_blank">my resume</a> or contact me via discord or email.
+If you want to know more about me, check <a href="pdf/Resume_Adam_Nassiri.pdf" target="_blank">my resume</a> or contact me via discord or email.
 
 
 {{< typeit 
