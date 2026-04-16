@@ -28,7 +28,7 @@ I did all the programming for this short game, I detailed here the parts I found
 <p><img src="gameplay screenshot.png" width=100% height=100%/></p>
 
 ### The notes and track system
-BEEthoven is close to guitar hero in this regard, the game has four tracks that the notes slide along, the tracks end with a "Hitter", this reacts when the player hits keys.
+BEEthoven is similar to guitar hero in this regard, the game has four tracks that the notes slide along, the tracks end with a "Hitter", this reacts when the player hits keys.
 Hitting a note is awards score based on how precisely it was hit.
 
 As this was **my first rhythm game**, my approach was simple, albeit naive: 
@@ -39,10 +39,11 @@ If the note is hit while its hit window is active, the note is destroyed and awa
 
 ### The scoring 
 Making the `scoring system` was relatively easy once everything else was in place, a script listens for events that trigger when a note is scored, and awards score each time a note is hit.
-The score a note awards is calculated based on how close its timer is to zero, I defined "time regions" so when hitting a note the precision is broken up into "good", "very good", and "perfect", these correspond to increasingly narrow timing windows and award different point values.
+
+The score a note awards is calculated based on how close its timer is to zero, I defined "time regions" so when hitting a note the precision is broken up into **good**, **very good**, and **perfect**, these correspond to increasingly narrow timing windows and award different point values.
 
 ### Using new tools
-This was my first time really poking around in the Unity animation system, I used it to make all the menu transitions, the curtains opening, elements sliding out of view etc.
+This was my first time really poking around in the `Unity animation system`, I used it to make all the menu transitions, the curtains opening, elements sliding out of view etc.
 I also used it to fine-tune the characters animations and sync them with player actions, it seems trivial, but even a slight delay in the feedback can end up hurting game feel, especially for a rhythm game.
 
 ## Conclusion
