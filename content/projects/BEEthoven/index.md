@@ -15,7 +15,7 @@ lifeLike=true
 
 ## A new Challenge
 
-This was my second time participating in a game-jam, and I had never made a rhythm game.
+This was my second time participating in a game-jam, and **my first rhythm game**.
 
 For this jam I teamed up with [François Dohant](https://www.artstation.com/francesco-dht), who made all the cute art and animations.
 We first had the idea for the title of the game, we found the wordplay funny, and decided to make a game out of it.
@@ -31,7 +31,7 @@ I did all the programming for this short game, I detailed here the parts I found
 BEEthoven is similar to guitar hero in this regard, the game has four tracks that the notes slide along, the tracks end with a "Hitter", this reacts when the player hits keys.
 Hitting a note is awards score based on how precisely it was hit.
 
-As this was **my first rhythm game**, my approach was simple, albeit naive: 
+As this was my first experience in the rhythm genre, my approach was simple, albeit naive: 
 Each note has a timer that starts counting down when it is instantiated, when the timer goes into the negatives past a certain grace period, the note is destroyed.
 
 each note also carries data that defines a "hit window", when the timer value is in that window, the player can hit that note.
