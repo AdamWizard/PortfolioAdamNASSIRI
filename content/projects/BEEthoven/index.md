@@ -20,7 +20,7 @@ This was my second time participating in a game-jam, and I had never made a rhyt
 For this jam I teamed up with [François Dohant](https://www.artstation.com/francesco-dht), who made all the cute art and animations.
 We first had the idea for the title of the game, we found the wordplay funny, and decided to make a game out of it.
 
-<p><img src="itchio_logo.png" width=50% height=50%/></p>
+<p><img src="featured_logo.png" width=50% height=50%/></p>
 
 ## My part of the work
 I did all the programming for this short game, I detailed here the parts I found most significant.
