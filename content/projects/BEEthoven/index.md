@@ -15,17 +15,17 @@ lifeLike=true
 
 ## A new Challenge
 
-<p align="center"><img src="itchio_logo.png" width=50% height=50%/></p>
-
 This was my second time participating in a game-jam, and I had never made a rhythm game.
 
-For this jam I teamed up with [François Dohant](https://www.artstation.com/francesco-dht), we first had the idea for the title of the game, we found the wordplay funny, and decided to make a game out of it.
+For this jam I teamed up with [François Dohant](https://www.artstation.com/francesco-dht), who made all the cute art and animations.
+We first had the idea for the title of the game, we found the wordplay funny, and decided to make a game out of it.
 
-<p align="center"><img src="gameplay screenshot.png" width=50% height=50%/></p>
+<p><img src="itchio_logo.png" width=50% height=50%/></p>
 
 ## My part of the work
-
 I did all the programming for this short game, I detailed here the parts I found most significant.
+
+<p><img src="gameplay screenshot.png" width=100% height=100%/></p>
 
 ### The notes and track system
 BEEthoven is close to guitar hero in this regard, the game has four tracks that the notes slide along, the tracks end with a "Hitter", this reacts when the player hits keys.
