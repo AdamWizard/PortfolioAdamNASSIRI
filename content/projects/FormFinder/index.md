@@ -2,7 +2,7 @@
 title: "FormFinder"
 date: 2023-05-12T14:40:56-04:00
 draft: false
-tags: ["projects", "game", "Unity"]
+tags: [ "game", "Unity"]
 ---
 
 {{< lead >}}

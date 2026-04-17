@@ -2,7 +2,7 @@
 title: "friend-ship"
 date: 2023-05-15T14:40:56-04:00
 draft: false
-tags: ["Projects", "Game", "Unity"]
+tags: ["Game", "Unity"]
 ---
 {{< lead >}}
 {{< typeit 

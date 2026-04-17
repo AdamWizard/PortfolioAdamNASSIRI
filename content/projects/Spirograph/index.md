@@ -2,7 +2,7 @@
 title: "Spirograph Visualizer"
 date: 2023-05-14T18:26:33-04:00
 draft: false
-tags: ["projects","C++"]
+tags: ["C++"]
 ---
 
 {{< lead >}}
@@ -42,5 +42,5 @@ Since we had no prior information about the math of spirographs, a big part of t
 In addition to the basic math principles that govern the spirographs movement, I also **conceptualized and developped** the main classes that represent the spirograph itself, this has improved my understanding of `C++` and object oriented code in general.
 
 ## Conclusion
-This project was a step up for me in terms of involvement, planning and teamwork.
+This project was a step-up for me in terms of involvement, planning and teamwork.
 I am proud of the result, and I think that we achieved the goal we initially set.
