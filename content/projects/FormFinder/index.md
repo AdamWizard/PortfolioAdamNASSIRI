@@ -3,7 +3,7 @@ title: "FormFinder"
 date: 2023-05-12T14:40:56-04:00
 draft: false
 tags: [ "game", "Unity"]
-summary: "A factory-builder puzzle game featuring machines and conveyors"
+summary: "A factory-builder puzzle game featuring machines and conveyors."
 ---
 
 {{< lead >}}

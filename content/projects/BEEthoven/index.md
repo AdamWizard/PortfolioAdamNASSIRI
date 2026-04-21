@@ -3,7 +3,7 @@ title: "BEEthoven"
 date: 2026-03-16T00:00:00-00:00
 draft: false
 tags: ["game", "Unity"]
-summary: "A Rhythm game where bugs play music, made for a week-long game-jam"
+summary: "A Rhythm game where bugs play music, made for a week-long game-jam."
 ---
 
 {{< lead >}}

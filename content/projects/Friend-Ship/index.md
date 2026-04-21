@@ -3,12 +3,13 @@ title: "friend-ship"
 date: 2023-05-15T14:40:56-04:00
 draft: false
 tags: ["Game", "Unity"]
+summary: "An arcade Shoot'em up game where you can convert enemies into friends."
 ---
 {{< lead >}}
 {{< typeit 
 speed=50
 lifeLike=true
->}}Somewhere in space, a spaceship fights hordes of foes, thanks to the power of friendship, they don't all have to stay ennemies...
+>}}Somewhere in space, a spaceship battles hordes of foes, thanks to the power of friendship, they don't all have to stay ennemies...
 {{< /typeit >}}
 {{< /lead >}} 
 
