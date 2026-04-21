@@ -5,6 +5,7 @@ draft: false
 tags: [ "game", "VR", "Unity"]
 showHero: false
 heroStyle: "thumbAndBackground"
+summary: "A VR experience featuring live audio mixing and beat-synced rave visuals"
 ---
 
 {{< lead >}}

@@ -3,13 +3,14 @@ title: "BEEthoven"
 date: 2026-03-16T00:00:00-00:00
 draft: false
 tags: ["game", "Unity"]
+summary: "A Rhythm game where bugs play music, made for a week-long game-jam"
 ---
 
 {{< lead >}}
 {{< typeit 
 speed=50
 lifeLike=true
->}}A Rhythm game I made for a week-long game-jam
+>}}Assemble your orchestra and go for a high score!
 {{< /typeit >}}
 {{< /lead >}} 
 
@@ -17,7 +18,7 @@ lifeLike=true
 
 This was my second time participating in a game-jam, and **my first rhythm game**.
 
-For this jam I teamed up with [François Dohant](https://www.artstation.com/francesco-dht), who made all the cute art and animations.
+For this week-long jam I teamed up with [François Dohant](https://www.artstation.com/francesco-dht), who made all the cute art and animations.
 We first had the idea for the title of the game, we found the wordplay funny, and decided to make a game out of it.
 
 <p><img src="featured_logo.png" width=50% height=50%/></p>

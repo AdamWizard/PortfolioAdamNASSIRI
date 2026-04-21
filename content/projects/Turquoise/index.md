@@ -3,6 +3,7 @@ title: "A sacrifice for the turquoise lord"
 date: 2023-05-13T18:27:10-04:00
 draft: false
 tags: [ "game", "Unity"]
+summary: "A puzzle game featuring a time loop mechanic"
 ---
 {{< lead >}}
 {{< typeit 

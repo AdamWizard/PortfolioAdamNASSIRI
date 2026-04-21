@@ -3,6 +3,7 @@ title: "Extra Leaderboards API"
 date: 2023-05-02T18:29:28-04:00
 draft: false
 tags: ["Java"]
+summary: "An API that provides data to feed a trackmania leaderboards plugin"
 ---
 
 
