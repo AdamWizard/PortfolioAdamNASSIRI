@@ -3,7 +3,7 @@ title: "friend-ship"
 date: 2023-05-15T14:40:56-04:00
 draft: false
 tags: ["Game", "Unity"]
-summary: "An arcade Shoot'em up game where you can convert enemies into friends."
+summary: "An arcade Shoot em up game where you can convert enemies into friends."
 ---
 {{< lead >}}
 {{< typeit 
