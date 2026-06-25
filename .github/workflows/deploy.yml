@@ -5,7 +5,7 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: 
-      - main
+      - master
   # Allows workflow to be triggerd from the Actions tab on github
   workflow_dispatch:
 
