@@ -21,6 +21,7 @@ This was my second time participating in a game-jam, and **my first rhythm game*
 For this week-long jam I teamed up with [François Dohant](https://www.artstation.com/francesco-dht), who made all the cute art and animations.
 We first had the idea for the title of the game, we found the wordplay funny, and decided to make a game out of it.
 
+BEEthoven is now playable in browser on __[this itch.io page](https://adam-wizard.itch.io/beethoven)__.
 <p><img src="featured_logo.png" width=50% height=50%/></p>
 
 ## My part of the work

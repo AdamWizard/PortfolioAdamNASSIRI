@@ -17,11 +17,11 @@ lifeLike=true
 
 ## Speeding up the plugin
 
-The [Extra Leaderboard positions plugin](https://github.com/Banalian/ExtraLeaderboardPositions) is an existing plugin for trackmania that allows players to get more information about their placement on a given map.
+The __[Extra Leaderboard positions plugin](https://github.com/Banalian/ExtraLeaderboardPositions)__ is an existing plugin for Trackmania that allows players to get more information about their placement on a given map.
 
 The goal of **integrating API usage** to the existing plugin was to make it **more responsive** by getting a response from the ubisoft API faster.
 
-The result is [this project](https://github.com/Banalian/ExtraLeaderboardAPI), that uses an amazon webservices machine to handle the requests from players and forward them to the ubisoft API, then send ubisofts response back to the user.
+The result is __[this project](https://github.com/Banalian/ExtraLeaderboardAPI)__, that uses an amazon webservices machine to handle the requests from players and forward them to the ubisoft API, then send Ubisofts response back to the user.
 
 ## My part of the work
 ### The Chain of responsibility

@@ -23,7 +23,7 @@ As a team of two students, and over the course of six months, our goal was to ma
 This program has some interactive features, although the actual building of the spirograph (the size and amount of discs) has to be done beforehand.
 
 With this application, a user can set up their spirograph and watch it draw itself.
-all necessary information to use the program is detailed in the **README.md** file on the [github repository](https://github.com/AdamWizard/Projet_Spirograph).
+all necessary information to use the program is detailed in the **README.md** file on the __[github repository](https://github.com/AdamWizard/Projet_Spirograph)__.
 
 {{< github repo="AdamWizard/Projet_Spirograph" >}}
 

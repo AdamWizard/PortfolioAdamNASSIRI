@@ -19,7 +19,7 @@ lifeLike=true
 
 This was a class project made over the course of six months with four teamates assisting me, we had game-jam-like constraints in the sense that we had a theme to stick with: **time manipulation**.
 
-This inspired us to come up with [this puzzle game](https://adam-wizard.itch.io/a-sacrifice-for-the-turquoise-lord).
+This inspired us to come up with this puzzle game, downloadable from __[this itch.io page](https://adam-wizard.itch.io/a-sacrifice-for-the-turquoise-lord)__.
 
 The main mechanic of the game is a **time clone** ability, that allows the player to rewind time on death, when time is done rewinding, a **temporal echo** will be born and will repeat the players past life in parallel to the players current actions, used intelligently, this allows the player to safely traverse the rooms of the temple.
 

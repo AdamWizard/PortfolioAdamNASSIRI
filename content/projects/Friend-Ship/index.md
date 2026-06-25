@@ -22,7 +22,7 @@ A Shoot'em up arcade game where you can **convert enemies into friends**.
 Friend-Ship is my current passion project, as a huge fan of the shmup genre,<br>
 I wanted to try my hand at making one.
 
-I have been working on this game for about 2 years in between classes, from the [playable demo](https://adam-wizard.itch.io/friend-ship-demo) i made to the project it has become today, we are currently working on it as "whiteboard", a team of 3 students, as part of a class project at the `UQAC` (Université du Québec à Chicoutimi).
+I have been working on this game for about 2 years in between classes, from the __[playable demo](https://adam-wizard.itch.io/friend-ship-demo)__ I made to the project it has become today, we are currently working on it as "whiteboard", a team of 3 students, as part of a class project at the `UQAC` (Université du Québec à Chicoutimi).
 
 ## And a challenge 
 <p align="left"><img src="medusa.gif" /></p>
